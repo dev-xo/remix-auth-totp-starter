@@ -1,0 +1,12 @@
+.DS_Store
+/node_modules/
+
+# ❗For simplicity, we've left the .env committed.
+# Uncomment this line in a production environment.
+# .env
+
+# React Router
+/.react-router/
+/build/
+.vscode/
+.pnpm-lock.yaml
